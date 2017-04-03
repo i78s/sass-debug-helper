@@ -1,0 +1,20 @@
+{
+  "name": "i78s.sass-debug-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i78s/sass-debug-helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i78s/sass-debug-helper/issues"
+  },
+  "homepage": "https://github.com/i78s/sass-debug-helper#readme"
+}
